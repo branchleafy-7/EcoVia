@@ -1,0 +1,6 @@
+{
+  "name": "ECOVIA",
+  "description": "Smarter events. Sustainable choices. Practical event sustainability strategy, hotspot analysis, and action planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
